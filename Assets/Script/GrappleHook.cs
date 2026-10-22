@@ -32,6 +32,7 @@ public class GrappleHook : MonoBehaviour
     public float LerpTime;
     private float CamFOV;
 
+    Rigidbody rb;
 
     private void Start()
     {

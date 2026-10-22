@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: b569aecadac1a104fa6c4925e24c8808
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electric_box1
+    second: {fileID: 2100000, guid: b31de5b778dbb7b40954ad6750eb95ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_sheet1
+    second: {fileID: 2100000, guid: febf48808d65a604d8854c8502750498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop1
+    second: {fileID: 2100000, guid: 83b1b0c8bf8442646a4c4e30eb11b41f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snacks_tray1
+    second: {fileID: 2100000, guid: 78f7dee842d37a84c8acf555cbcec396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box1
+    second: {fileID: 2100000, guid: 2d0e8c5a29bf2774ea4a01841d3d7aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: name_light1
+    second: {fileID: 2100000, guid: 6fb210ec277af6346aea3e5588abd9d8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Electric_box1_BaseColor
+    second: {fileID: 2800000, guid: 31cc5c4a6b4f7fb4491865669d873645, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Electric_box1_Emissive
+    second: {fileID: 2800000, guid: aea9c9035c2682947ac99301ed7eaf46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Electric_box1_Metallic
+    second: {fileID: 2800000, guid: bbc75a3bd3bc7404da8208eccc721bd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Electric_box1_Roughness
+    second: {fileID: 2800000, guid: db36afc39efcaad44b2f9896cc889281, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Metal_sheet1_BaseColor
+    second: {fileID: 2800000, guid: bc128fdd2ca7c2345abac82d011ce860, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Metal_sheet1_Metallic
+    second: {fileID: 2800000, guid: 896c3f7a7825b684186912d3c018b0f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Metal_sheet1_Normal
+    second: {fileID: 2800000, guid: 2f491eb8f4b725e4f9093b5071213f19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Metal_sheet1_Roughness
+    second: {fileID: 2800000, guid: 485df2209f0cd0e4aad8bfc64c98456a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Prop1_BaseColor
+    second: {fileID: 2800000, guid: 053d76ac819324a4b80fd81af08120fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Prop1_Emissive
+    second: {fileID: 2800000, guid: b358b6684565d0b45b6b768914f89cc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Prop1_Metallic
+    second: {fileID: 2800000, guid: 2fabed356f74d1d4da80065d25ebe96a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Prop1_Roughness
+    second: {fileID: 2800000, guid: c84519462922e1c4e93b493ea0a7d319, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Snacks_tray1_BaseColor
+    second: {fileID: 2800000, guid: cf78c9ee89884224589d2b275df0f51c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Snacks_tray1_Metallic
+    second: {fileID: 2800000, guid: 5f6836ef25fd1414796d9888eeb3b1ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_Snacks_tray1_Roughness
+    second: {fileID: 2800000, guid: 6525143bcaa3369469e0a73346bdad7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_box1_BaseColor
+    second: {fileID: 2800000, guid: 91a4c869a55120143bc2430302fd9417, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_box1_Metallic
+    second: {fileID: 2800000, guid: 0f6e9247301943044ae6cd7b4431cd40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_box1_Normal
+    second: {fileID: 2800000, guid: 68c5528c1b07f91479084d3da899b1fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_box1_Roughness
+    second: {fileID: 2800000, guid: 331f16ac51f11ff48919f010e563eebe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_name_light1_BaseColor
+    second: {fileID: 2800000, guid: 3e5d8bcfe6b053441b91137f58ff1c2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_name_light1_Emissive
+    second: {fileID: 2800000, guid: 0cb19827b5e41444387c6afd556a6d19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_name_light1_Metallic
+    second: {fileID: 2800000, guid: a6cb3c32e8fa74d4d8dd10ce46c10f32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bro_name_light1_Roughness
+    second: {fileID: 2800000, guid: 69c8edb1d17dd6949b25eef618709590, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
